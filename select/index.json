@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "井上ジョー　『CLOSER』",
+  "base_artist": "井上ジョー",
+  "createdAt": "2025-12-28T02:00:40.828232Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Closer to Heaven (feat. Gregory Porter)",
+      "artist": "Zac Brown Band feat. Gregory Porter",
+      "has_synced": true,
+      "path": "select/01_Closer_to_Heaven_(feat._Gregory_Porter)_Zac_Brown_Band_feat._Gregory_Porter.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Closer To Heaven (feat. Gregory Porter)",
+      "artist": "Zac Brown Band",
+      "has_synced": true,
+      "path": "select/02_Closer_To_Heaven_(feat._Gregory_Porter)_Zac_Brown_Band.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Closer To You",
+      "artist": "Carly Pearce",
+      "has_synced": true,
+      "path": "select/03_Closer_To_You_Carly_Pearce.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Come A Little Closer",
+      "artist": "Dierks Bentley",
+      "has_synced": true,
+      "path": "select/04_Come_A_Little_Closer_Dierks_Bentley.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Houston (Means I'm One Day Closer to You)",
+      "artist": "Larry Gatlin",
+      "has_synced": true,
+      "path": "select/05_Houston_(Means_I'm_One_Day_Closer_to_You)_Larry_Gatlin.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Houston (Means I'm One Day Closer To You) (Album Version)",
+      "artist": "Larry Gatlin",
+      "has_synced": true,
+      "path": "select/06_Houston_(Means_I'm_One_Day_Closer_To_You)_(Album_Version)_Larry_Gatlin.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Houston (Means I'm One Day Closer To You) (Album Version)",
+      "artist": "Larry Gatlin & The Gatlin Brothers",
+      "has_synced": true,
+      "path": "select/07_Houston_(Means_I'm_One_Day_Closer_To_You)_(Album_Version)_Larry_Gatlin_&_The_Gatlin_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Houston (Means I'm One Day Closer To You) (Album Version)",
+      "artist": "Larry Gatlin & The Gatlin Brothers Band",
+      "has_synced": true,
+      "path": "select/08_Houston_(Means_I'm_One_Day_Closer_To_You)_(Album_Version)_Larry_Gatlin_&_The_Gatlin_Brothers_Band.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Houston (Means I'm One Day Closer To You) - Re-Recorded In Stereo",
+      "artist": "Larry Gatlin & The Gatlin Brothers",
+      "has_synced": true,
+      "path": "select/09_Houston_(Means_I'm_One_Day_Closer_To_You)_-_Re-Recorded_In_Stereo_Larry_Gatlin_&_The_Gatlin_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Houston (Means I'm One Day Closer To You) (Re-Recorded In Stereo)",
+      "artist": "Larry Gatlin & The Gatlin Brothers",
+      "has_synced": true,
+      "path": "select/10_Houston_(Means_I'm_One_Day_Closer_To_You)_(Re-Recorded_In_Stereo)_Larry_Gatlin_&_The_Gatlin_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Closer You Get",
+      "artist": "Alabama",
+      "has_synced": true,
+      "path": "select/11_The_Closer_You_Get_Alabama.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "One Step Closer",
+      "artist": "LINKIN PARK",
+      "has_synced": true,
+      "path": "select/12_One_Step_Closer_LINKIN_PARK.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Closer",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/13_Closer_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Closer",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/14_Closer_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Closer",
+      "artist": "Rolo Tomassi",
+      "has_synced": true,
+      "path": "select/15_Closer_Rolo_Tomassi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "CLOSER",
+      "artist": "井上 ジョー",
+      "has_synced": false,
+      "path": "select/pl_01_CLOSER_井上_ジョー.txt"
+    }
+  ]
+}
